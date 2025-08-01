@@ -10,7 +10,7 @@
 
 <!-- Hero GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6a/73/66/6a73663f2d9cd97df153aae37c6d2f19.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -90,8 +90,8 @@
 - 🎧 Music is my ultimate productivity fuel  
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" />  
-  <img src="https://media.tenor.com/wWBUZ5djDU4AAAAd/football-skill.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />  
+  <img src="https://media.giphy.com/media/SvckSyZ5yU5sfx40B9/giphy.gif" width="250" />
 </p>
 
 ---
