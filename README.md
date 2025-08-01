@@ -8,6 +8,13 @@
 
 ---
 
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 I'm pursuing **Electronics & Telecommunication Engineering** at **PICT College**  
@@ -83,7 +90,6 @@
 - 🎧 Music is my ultimate productivity fuel  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFweHM5djc4amljbWRrcDRodXF5dW5tdXFxYng1am01b3d6NXQzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7YjvlYIMRDcYM/giphy.gif" width="250" />
 </p>
 
