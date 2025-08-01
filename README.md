@@ -3,8 +3,15 @@
 
 <!-- Animated Tagline -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Student;Web+Developer;DSA+Enthusiast;Cinephile;Football+and+Table+Tennis+Player;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student;Web+Developer;DSA+Enthusiast;Footballer+%26+TT+Player;Book+%26+Film+Lover;Always+Learning+Something+New" alt="Typing SVG" />
 </h3>
+
+---
+
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6a/73/66/6a73663f2d9cd97df153aae37c6d2f19.gif" width="300" />
+</p>
 
 ---
 
@@ -12,12 +19,13 @@
 
 - 🎓 I'm pursuing **Electronics & Telecommunication Engineering** at **PICT College**  
 - 💻 Currently working on **Web Development** and **DSA projects**  
-- 🔭 Passionate about **Full-Stack Development** and exploring **MERN stack**  
-- 🎯 Goals: Master **System Design**, contribute to **Open Source**, and build amazing products  
+- 🧠 Passionate about **MERN Stack**, **System Design**, and **Clean Code**  
+- 💡 I enjoy solving complex problems and building responsive UIs  
+- 🎯 Goals: Contribute to **Open Source** & become a **Full-Stack Engineer**  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -45,20 +53,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaushik-joshi-25baa9288" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kaushikjoshy" target="_blank">
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:kaushikrj14@gmail.com" target="_blank">
+  <a href="mailto:YOUR-EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kaushik-joshy" target="_blank">
+  <a href="https://github.com/kaushikjoshi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31dnqrwuivgexogyvdsnlj3dixoa?si=b44b1a66aeee48a9" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
@@ -67,8 +72,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushikjoshi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikjoshi&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushikjoshi&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikjoshi&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -77,26 +82,20 @@
 
 ---
 
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31dnqrwuivgexogyvdsnlj3dixoa?si=b44b1a66aeee48a9">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
-  </a>
-</p>
-
----
-
 ## ⚡ Fun Facts & Interests
 
-- ⚽ I'm a **football** and **table tennis** player  
-- 🎬 Huge **cinephile** – love watching movies  
-- 📚 I enjoy reading books and exploring new ideas  
-- 🎧 Music is my ultimate productivity booster  
+- ⚽ I'm a **footballer** and **table tennis** player  
+- 🎬 A **cinephile** who never says no to a good film  
+- 📚 I enjoy reading books, especially on tech and psychology  
+- 🎧 Music is my ultimate productivity fuel  
+
+<p align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" />  
+  <img src="https://media.tenor.com/wWBUZ5djDU4AAAAd/football-skill.gif" width="250" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushikjoshi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
-
