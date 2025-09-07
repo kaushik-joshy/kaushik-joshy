@@ -3,7 +3,7 @@
 
 <!-- Animated Tagline -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student;Web+Developer;DSA+Enthusiast;Footballer+%26+TT+Player;Book+%26+Film+Lover;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=EnTC+Student;Web+Developer;Competetive+Programmer;Footballer+%26+TT+Player;Tech+Enthusiast" alt="Typing SVG" />
 </h3>
 
 ---
